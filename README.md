@@ -3,10 +3,9 @@
 # 🧌 The Wumpus: Agentic AI / Decision Making
 
 Bayesian Inference and Constraint Satisfaction Programming to guide a free agent using perceptions to search a grid space and perform a task while calculating probabilities of dangers en route
-- wumpus.ipynb
-- knowledge_base.perl
-- game_state.json  
-The Prolog file `knowledge_base.perl` and updating `game_state.json` codes are also included in `wumpus.ipynb` cell blocks.  
+- wumpus.ipynb  
+- knowledge_base.perl  (Prolog for ontology)  
+- game_state.json  (Python for updating beliefs)  
 
 ---  
 ---  
