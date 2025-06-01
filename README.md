@@ -34,7 +34,7 @@ In this project, Bayesian inference is pivotal in updating the agent's beliefs a
 
 ### 3.1 Mathematical Foundation of Bayesian Inference  
 Bayes' Theorem is mathematically expressed as:  
-$P(H ∣ E) = P(E ∣ H) × P(H) P(E) → P(H ∣ E) = P(E) P(E ∣ H) × P(H)$
+$P(H ∣ E) = {frac}{P(E | H)*P(H)}{P(E)}$
 where:  
 -	$P(H ∣ E)$ is the probability of the hypothesis $H$ given the evidence $E$.
 -	$P(E ∣ H)$ is the probability of observing the evidence $E$ given that $H$ is true.
