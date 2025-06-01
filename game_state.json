@@ -1,0 +1,274 @@
+[
+    {
+        "location": {
+            "x": 1,
+            "y": 1
+        },
+        "percepts": {
+            "stenchy": false,
+            "glitter": false,
+            "windy": false
+        },
+        "probabilities": {
+            "pit": 0.0,
+            "wumpus": 0.0,
+            "gold": 0
+        },
+        "visited": false
+    },
+    {
+        "location": {
+            "x": 1,
+            "y": 2
+        },
+        "percepts": {
+            "stenchy": false,
+            "glitter": false,
+            "windy": false
+        },
+        "probabilities": {
+            "pit": 0.003952569169960474,
+            "wumpus": 0.001132502831257078,
+            "gold": 0.06666666666666667
+        },
+        "visited": false
+    },
+    {
+        "location": {
+            "x": 1,
+            "y": 3
+        },
+        "percepts": {
+            "stenchy": false,
+            "glitter": false,
+            "windy": false
+        },
+        "probabilities": {
+            "pit": 0.003952569169960474,
+            "wumpus": 0.001132502831257078,
+            "gold": 0.06666666666666667
+        },
+        "visited": false
+    },
+    {
+        "location": {
+            "x": 1,
+            "y": 4
+        },
+        "percepts": {
+            "stenchy": false,
+            "glitter": false,
+            "windy": false
+        },
+        "probabilities": {
+            "pit": 0.01639344262295082,
+            "wumpus": 0.004739336492890996,
+            "gold": 0.06666666666666667
+        },
+        "visited": false
+    },
+    {
+        "location": {
+            "x": 2,
+            "y": 1
+        },
+        "percepts": {
+            "stenchy": false,
+            "glitter": false,
+            "windy": false
+        },
+        "probabilities": {
+            "pit": 0.003952569169960474,
+            "wumpus": 0.001132502831257078,
+            "gold": 0.06666666666666667
+        },
+        "visited": false
+    },
+    {
+        "location": {
+            "x": 2,
+            "y": 2
+        },
+        "percepts": {
+            "stenchy": false,
+            "glitter": false,
+            "windy": false
+        },
+        "probabilities": {
+            "pit": 0.0009794319294809011,
+            "wumpus": 0.0002800336040324839,
+            "gold": 0.06666666666666667
+        },
+        "visited": false
+    },
+    {
+        "location": {
+            "x": 2,
+            "y": 3
+        },
+        "percepts": {
+            "stenchy": false,
+            "glitter": false,
+            "windy": false
+        },
+        "probabilities": {
+            "pit": 0.0009794319294809011,
+            "wumpus": 0.0002800336040324839,
+            "gold": 0.06666666666666667
+        },
+        "visited": false
+    },
+    {
+        "location": {
+            "x": 2,
+            "y": 4
+        },
+        "percepts": {
+            "stenchy": false,
+            "glitter": false,
+            "windy": false
+        },
+        "probabilities": {
+            "pit": 0.003952569169960474,
+            "wumpus": 0.001132502831257078,
+            "gold": 0.06666666666666667
+        },
+        "visited": false
+    },
+    {
+        "location": {
+            "x": 3,
+            "y": 1
+        },
+        "percepts": {
+            "stenchy": false,
+            "glitter": false,
+            "windy": false
+        },
+        "probabilities": {
+            "pit": 0.003952569169960474,
+            "wumpus": 0.001132502831257078,
+            "gold": 0.06666666666666667
+        },
+        "visited": false
+    },
+    {
+        "location": {
+            "x": 3,
+            "y": 2
+        },
+        "percepts": {
+            "stenchy": false,
+            "glitter": false,
+            "windy": false
+        },
+        "probabilities": {
+            "pit": 0.0009794319294809011,
+            "wumpus": 0.0002800336040324839,
+            "gold": 0.06666666666666667
+        },
+        "visited": false
+    },
+    {
+        "location": {
+            "x": 3,
+            "y": 3
+        },
+        "percepts": {
+            "stenchy": false,
+            "glitter": false,
+            "windy": false
+        },
+        "probabilities": {
+            "pit": 0.0009794319294809011,
+            "wumpus": 0.0002800336040324839,
+            "gold": 0.06666666666666667
+        },
+        "visited": false
+    },
+    {
+        "location": {
+            "x": 3,
+            "y": 4
+        },
+        "percepts": {
+            "stenchy": false,
+            "glitter": false,
+            "windy": false
+        },
+        "probabilities": {
+            "pit": 0.003952569169960474,
+            "wumpus": 0.001132502831257078,
+            "gold": 0.06666666666666667
+        },
+        "visited": false
+    },
+    {
+        "location": {
+            "x": 4,
+            "y": 1
+        },
+        "percepts": {
+            "stenchy": false,
+            "glitter": false,
+            "windy": false
+        },
+        "probabilities": {
+            "pit": 0.01639344262295082,
+            "wumpus": 0.004739336492890996,
+            "gold": 0.06666666666666667
+        },
+        "visited": false
+    },
+    {
+        "location": {
+            "x": 4,
+            "y": 2
+        },
+        "percepts": {
+            "stenchy": false,
+            "glitter": false,
+            "windy": false
+        },
+        "probabilities": {
+            "pit": 0.003952569169960474,
+            "wumpus": 0.001132502831257078,
+            "gold": 0.06666666666666667
+        },
+        "visited": false
+    },
+    {
+        "location": {
+            "x": 4,
+            "y": 3
+        },
+        "percepts": {
+            "stenchy": false,
+            "glitter": false,
+            "windy": false
+        },
+        "probabilities": {
+            "pit": 0.003952569169960474,
+            "wumpus": 0.001132502831257078,
+            "gold": 0.06666666666666667
+        },
+        "visited": false
+    },
+    {
+        "location": {
+            "x": 4,
+            "y": 4
+        },
+        "percepts": {
+            "stenchy": false,
+            "glitter": false,
+            "windy": false
+        },
+        "probabilities": {
+            "pit": 0.01639344262295082,
+            "wumpus": 0.004739336492890996,
+            "gold": 0.06666666666666667
+        },
+        "visited": false
+    }
+]
